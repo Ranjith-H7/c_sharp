@@ -1,0 +1,3 @@
+/Users/ranjith/Downloads/c#/final/c#.pdb
+/Users/ranjith/Downloads/c#/final/libSkiaSharp.dylib
+/Users/ranjith/Downloads/c#/final/c#

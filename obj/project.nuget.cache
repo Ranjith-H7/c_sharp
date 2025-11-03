@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsCEugw9/Vk=",
+  "success": true,
+  "projectFilePath": "/Users/ranjith/Downloads/c#/c#.csproj",
+  "expectedPackageFiles": [
+    "/Users/ranjith/.nuget/packages/microsoft.net.illink.tasks/9.0.10/microsoft.net.illink.tasks.9.0.10.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/skiasharp/3.116.1/skiasharp.3.116.1.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/skiasharp.nativeassets.macos/3.116.1/skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/skiasharp.nativeassets.win32/3.116.1/skiasharp.nativeassets.win32.3.116.1.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/9.0.10/microsoft.netcore.app.runtime.osx-x64.9.0.10.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/9.0.10/microsoft.aspnetcore.app.runtime.osx-x64.9.0.10.nupkg.sha512",
+    "/Users/ranjith/.nuget/packages/microsoft.netcore.app.host.osx-x64/9.0.10/microsoft.netcore.app.host.osx-x64.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
