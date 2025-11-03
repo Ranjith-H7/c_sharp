@@ -9,6 +9,8 @@ This C# program fetches time entry data from an API, aggregates employee hours, 
 ### HTML Table
 The program generates `output.html` with a styled table of employee time entries.
 
+![HTML Table Screenshot](html-table-screenshot.png)
+
 ### Pie Chart
 ![Employee Time Distribution](employee-time-distribution.png)
 
@@ -20,5 +22,6 @@ Execute the self-contained executable `Ranjith_C# Assignment` (macOS) or build f
 - `c#.csproj`: Project file
 - `output.html`: Generated HTML table
 - `employee-time-distribution.png`: Generated pie chart
+- `html-table-screenshot.png`: Screenshot of the HTML table output
 - `single/`: Self-contained executable directory
 - `final/`: Published executable
